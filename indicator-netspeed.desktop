@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/indicator-netspeed
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Netspeed Indicator
+Comment=Network speed indicator for Unity

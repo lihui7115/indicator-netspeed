@@ -1,3 +1,9 @@
+sudo apt-get install $(cat build-deps.txt)
+make
+sudo make install
+sudo cp indicator-netspeed.desktop /etc/xdg/autostart/indicator-netspeed.desktop
+
+
 Network speed indicator for Unity
 =================================
 
